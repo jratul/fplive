@@ -1,3 +1,2 @@
 # fplive
-* * *
 Get your style
